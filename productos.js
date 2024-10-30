@@ -12,7 +12,7 @@ const productosBodyTherapy = [
   {
     id: 4,
     nombre: "Radiofrecuencia",
-    img: "./img/grupoQ/radiofrecuencia.png",
+    img: "./img/grupoQ/radiofrecuencia-2.jpg",
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ const productosBodyTherapy = [
   {
     id: 10,
     nombre: "Venitas rojas faciales",
-    img: "./img/grupoQ/venitas-rojas-2.png",
+    img: "./img/grupoQ/venitas-rojas.webp",
   },
   {
     id: 11,
@@ -199,10 +199,12 @@ const productosMedicinaGeneral = [
     nombre: "Teleconsulta.",
     img: "./img/grupoQ/teleconsulta.webp",
   },
-
-];
-
-const productosCirugia = [
+  {
+    id: 42,
+    nombre:
+      "Prevención, diagnóstico y tratamiento de enfermedades crónico-degenerativas",
+    img: "./img/grupoQ/cronico-corazon.png",
+  },
   {
     id: 43,
     nombre: "Suturas y retiro de puntos.",
@@ -216,7 +218,7 @@ const productosCirugia = [
   },
   {
     id: 45,
-    nombre: "Colocación, cambio y retiro de sonda foley.",
+    nombre: "Colocación, cambio y retiro de sonda Foley.",
     img: "./img/grupoQ/sonda-foley.webp",
   },
   {
@@ -224,32 +226,79 @@ const productosCirugia = [
     nombre: "Laboratorio clínico.",
     img: "./img/grupoQ/laboratorio-clinico.webp",
   },
+
+];
+
+const productosCirugia = [
+
+
+
   {
     id: 47,
-    nombre:
-      "Prevención, diagnóstico y tratamiento de enfermedades crónico-degenerativas",
-    img: "./img/grupoQ/cronico-corazon.png",
-  },
-  {
-    id: 48,
-    nombre: "Cirugía abdominal, Vesícula, Apéndice.",
+    nombre: "Cirugía abdominal, vesícula, apéndice y vías biliares.",
     img: "./img/grupoQ/quirófano.webp"
   },
   {
-    id: 49,
+    id: 48,
     nombre: "Paracentésis.",
     img: "./img/grupoQ/paracentesis.webp",
   },
   {
-    id: 50,
-    nombre: "Falla intestinal.",
+    id: 49,
+    nombre: "Falla y obstrucción intestinal.",
     img: "./img/grupoQ/falla-intestinal.webp",
+  },
+  {
+    id: 50,
+    nombre: "Evaluación de enfermedades abdominales.",
+    img: "./img/grupoQ/enfermedades-abdominales.png",
+  },
+  {
+    id: 51,
+    nombre: "Hernias abdominales, Restitución intestinal, Intervenciones quirúrgicas paliativas.",
+    img: "./img/grupoQ/hernias.jpg",
+  },
+  {
+    id: 52,
+    nombre: "Retiro y colocación de cateter Tenckhoff.",
+    img: "./img/grupoQ/catheter-tenckoff.jpg",
+  },
+  {
+    id: 53,
+    nombre: "Manejo de heridas y estomas.",
+    img: "./img/grupoQ/curaciones.webp",
+  },
+  {
+    id: 54,
+    nombre: "Accesos vasculares.",
+    img: "./img/grupoQ/accesos-vasculares.jpeg",
+  },
+
+  {
+    id: 55,
+    nombre: "Tratamiento de quistes, abscesos, lipomas y tumoraciones grasas.",
+    img: "./img/grupoQ/lipomas.jpg",
+  },
+  {
+    id: 56,
+    nombre: "Biopsias.",
+    img: "./img/grupoQ/biopsia.jpeg",
+  },
+  {
+    id: 57,
+    nombre: "Pancreatitis.",
+    img: "./img/grupoQ/pancreatitis.jpg",
+  },
+  {
+    id: 58,
+    nombre: "Tratamiento de pie diabético.",
+    img: "./img/grupoQ/pie-diabetico.jpg",
   },
 
 ];
 
 const listaProductos = document.getElementById("listaProductos");
-console.log(listaProductos)
+/* console.log(listaProductos) */
 
 /* se elimina href="index.html" para evitar que cada imagen se convirtiera en un enlace */
 productosMedicinaGeneral.map((product, i) => {
