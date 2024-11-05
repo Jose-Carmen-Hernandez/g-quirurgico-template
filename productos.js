@@ -2,7 +2,7 @@ const productosBodyTherapy = [
   {
     id: 1,
     nombre: "Depilación definitiva rejuveneciendo la piel (No dolorosa)",
-    img: "./img/grupoQ/tfbc8dwt.png",
+    img: "./img/grupoQ/depilacion-definitiva.webp",
   },
   {
     id: 2,
@@ -12,7 +12,7 @@ const productosBodyTherapy = [
   {
     id: 4,
     nombre: "Radiofrecuencia",
-    img: "./img/grupoQ/radiofrecuencia-2.jpg",
+    img: "./img/grupoQ/radiofrecuencia-2.webp",
   },
   {
     id: 5,
@@ -22,22 +22,22 @@ const productosBodyTherapy = [
   {
     id: 6,
     nombre: "Luz pulsada intensa",
-    img: "./img/grupoQ/g2w2c374.png",
+    img: "./img/grupoQ/luz-pulsada-intensa.webp",
   },
   {
     id: 7,
     nombre: "Manchas faciales",
-    img: "./img/grupoQ/manchas-faciales.jpeg",
+    img: "./img/grupoQ/manchas-faciales.webp",
   },
   {
     id: 8,
     nombre: "Limpieza facial profunda (acné, cicatrices faciales)",
-    img: "./img/grupoQ/acne.jpeg",
+    img: "./img/grupoQ/acne.webp",
   },
   {
     id: 9,
     nombre: "Rosácea",
-    img: "./img/grupoQ/rosacea.jpeg",
+    img: "./img/grupoQ/rosacea.webp",
   },
   {
     id: 10,
@@ -47,99 +47,99 @@ const productosBodyTherapy = [
   {
     id: 11,
     nombre: "Armonía facial",
-    img: "./img/grupoQ/armonizacion-facial.jpeg",
+    img: "./img/grupoQ/armonizacion-facial.webp",
   },
   {
     id: 12,
     nombre: "Dermapen",
-    img: "./img/grupoQ/dermapen.jpeg",
+    img: "./img/grupoQ/dermapen.webp",
   },
   {
     id: 13,
     nombre: "Enzimas lipolíticas (Bichectomía enzimática) y perfil facial",
-    img: "./img/grupoQ/bichectomia.jpeg",
+    img: "./img/grupoQ/bichectomia.webp",
   },
   {
     id: 14,
     nombre: "Eliminación de verrugas con fibroblast (No doloroso)",
-    img: "./img/grupoQ/verrugas.jpeg"
+    img: "./img/grupoQ/verrugas.webp"
   },
   {
     id: 15,
     nombre: "Lifting facial y de cuello",
-    img: "./img/grupoQ/lifting-facial.jpeg",
+    img: "./img/grupoQ/lifting-facial.webp",
   },
   {
     id: 16,
     nombre: "Peeling facial",
-    img: "./img/grupoQ/peeling-facial.jpeg",
+    img: "./img/grupoQ/peeling-facial.webp",
   },
   {
     id: 17,
     nombre: "Drenaje linfático facial y corporal",
-    img: "./img/grupoQ/linfatico-facial.jpeg",
+    img: "./img/grupoQ/drenaje-linfatico-facial.webp",
   },
   {
     id: 18,
     nombre: "Lesiones musculares (Recupera la movilidad.)",
-    img: "./img/grupoQ/lesion-muscular.jpeg",
+    img: "./img/grupoQ/lesion-muscular.webp",
   },
   {
     id: 19,
     nombre: "Lesiones cutáneas",
-    img: "./img/grupoQ/lesiones-cutaneas.jpeg",
+    img: "./img/grupoQ/lesiones-cutaneas.webp",
   },
   {
     id: 21,
     nombre: "Masaje terapéutico descontracturante",
-    img: "./img/grupoQ/masaje-descontracturante.jpeg",
+    img: "./img/grupoQ/masaje-descontracturante.webp",
   },
   {
     id: 22,
     nombre: "Masaje antiestrés",
-    img: "./img/grupoQ/masaje-antiestres.jpeg",
+    img: "./img/grupoQ/masaje-antiestres.webp",
   },
   {
     id: 23,
     nombre: "Masaje de drenaje linfático",
-    img: "./img/grupoQ/masaje-linfatico.jpeg",
+    img: "./img/grupoQ/masaje-linfatico.webp",
   },
   {
     id: 24,
     nombre: "Reduce células grasas con aparatología",
-    img: "./img/grupoQ/reduccion-de-grasas.jpeg",
+    img: "./img/grupoQ/reduccion-de-grasas.webp",
   },
   {
     id: 25,
     nombre: "Elimina flacidéz, celulitis y estrías",
-    img: "./img/grupoQ/celulitis.jpeg",
+    img: "./img/grupoQ/celulitis.webp",
   },
   {
     id: 26,
     nombre: "Moldeo corporal y tonifica",
-    img: "./img/grupoQ/moldeo corporal.jpeg",
+    img: "./img/grupoQ/moldeo corporal.webp",
   },
   {
     id: 27,
     nombre: "Reducción de medidas",
-    img: "./img/grupoQ/reduccion-de-medidas.jpeg",
+    img: "./img/grupoQ/reduccion-de-medidas.webp",
   },
   {
     id: 28,
     nombre:
       "Terapias postoperatorias (Abdominoplastías, lipoescultura, cesáreas)",
-    img: "./img/grupoQ/cicatriz-cesarea.jpeg",
+    img: "./img/grupoQ/cicatriz-cesarea.webp",
   },
   {
     id: 29,
     nombre: "Calvicie",
-    img: "./img/grupoQ/calvicie.jpeg",
+    img: "./img/grupoQ/calvicie.webp",
   },
   {
     id: 30,
     nombre:
       "Aclara zonas obscuras (Axilas, zona íntima, rodillas, codo, cuello)",
-    img: "./img/grupoQ/codo-oscuro.jpeg",
+    img: "./img/grupoQ/codo-oscuro.webp",
   },
 ];
 
@@ -203,7 +203,7 @@ const productosMedicinaGeneral = [
     id: 42,
     nombre:
       "Prevención, diagnóstico y tratamiento de enfermedades crónico-degenerativas",
-    img: "./img/grupoQ/cronico-corazon.png",
+    img: "./img/grupoQ/cronico-corazon.webp",
   },
   {
     id: 43,
@@ -251,17 +251,17 @@ const productosCirugia = [
   {
     id: 50,
     nombre: "Evaluación de enfermedades abdominales.",
-    img: "./img/grupoQ/enfermedades-abdominales.png",
+    img: "./img/grupoQ/enfermedades-abdominales.webp",
   },
   {
     id: 51,
     nombre: "Hernias abdominales, Restitución intestinal, Intervenciones quirúrgicas paliativas.",
-    img: "./img/grupoQ/hernias.jpg",
+    img: "./img/grupoQ/hernias.webp",
   },
   {
     id: 52,
     nombre: "Retiro y colocación de cateter Tenckhoff.",
-    img: "./img/grupoQ/catheter-tenckoff.jpg",
+    img: "./img/grupoQ/catheter-tenckoff.webp",
   },
   {
     id: 53,
@@ -271,28 +271,33 @@ const productosCirugia = [
   {
     id: 54,
     nombre: "Accesos vasculares.",
-    img: "./img/grupoQ/accesos-vasculares.jpeg",
+    img: "./img/grupoQ/accesos-vasculares.webp",
   },
 
   {
     id: 55,
     nombre: "Tratamiento de quistes, abscesos, lipomas y tumoraciones grasas.",
-    img: "./img/grupoQ/lipomas.jpg",
+    img: "./img/grupoQ/lipomas.webp",
   },
   {
     id: 56,
     nombre: "Biopsias.",
-    img: "./img/grupoQ/biopsia.jpeg",
+    img: "./img/grupoQ/biopsia.webp",
   },
   {
     id: 57,
     nombre: "Pancreatitis.",
-    img: "./img/grupoQ/pancreatitis.jpg",
+    img: "./img/grupoQ/pancreatitis.webp",
   },
   {
     id: 58,
     nombre: "Tratamiento de pie diabético.",
-    img: "./img/grupoQ/pie-diabetico.jpg",
+    img: "./img/grupoQ/pie-diabetico.webp",
+  },
+  {
+    id: 59,
+    nombre: "Intervenciones quirúrgicas paliativas.",
+    img: "./img/grupoQ/bisturi.webp",
   },
 
 ];
@@ -308,7 +313,7 @@ productosMedicinaGeneral.map((product, i) => {
                                           <div class="bg-white shadow-sm rounded-lg overflow-hidden p-1 m-3">
                                               <div class="cbp-caption-defaultWrap">
                                                   <img src="${product.img}" width="373" height="298"
-                                                      alt="Image Description">
+                                                      alt="${product.nombre}">
                                               </div>
                                           </div>
                                           <div class="text-center p-3">
@@ -328,7 +333,7 @@ productosCirugia.map((product, i) => {
                                         <div class="bg-white shadow-sm rounded-lg overflow-hidden p-1 m-3">
                                             <div class="cbp-caption-defaultWrap">
                                                 <img src="${product.img}" width="373" height="298"
-                                                    alt="Image Description">
+                                                    alt="${product.nombre}">
                                             </div>
                                         </div>
                                         <div class="text-center p-3">
@@ -339,7 +344,8 @@ productosCirugia.map((product, i) => {
                                 <!-- End Item -->`;
 });
 
-/* se mantiene href="index.html" para consultar si es conveniente que cada imagen sea un enlace */
+/* se elimina href="index.html" para evitar que cada imagen se convirtiera en un enlace */
+
 productosBodyTherapy.map((product, i) => {
   listaProductos.innerHTML += `<!-- Item -->
                               <div class="cbp-item bodyTherapy">
@@ -347,7 +353,7 @@ productosBodyTherapy.map((product, i) => {
                                       <div class="bg-white shadow-sm rounded-lg overflow-hidden p-1 m-3">
                                           <div class="cbp-caption-defaultWrap">
                                               <img src="${product.img}" width="373" height="298"
-                                                  alt="Image Description">
+                                                  alt="${product.nombre}">
                                           </div>
                                       </div>
                                       <div class="text-center p-3">
